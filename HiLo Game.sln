@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLo Game", "HiLo Game\HiLo Game.csproj", "{8A901506-7CEE-4C80-9440-9212C722E461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A901506-7CEE-4C80-9440-9212C722E461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A901506-7CEE-4C80-9440-9212C722E461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A901506-7CEE-4C80-9440-9212C722E461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A901506-7CEE-4C80-9440-9212C722E461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92DE4D48-F1BB-4819-9653-4570A44D2D34}
+	EndGlobalSection
+EndGlobal
